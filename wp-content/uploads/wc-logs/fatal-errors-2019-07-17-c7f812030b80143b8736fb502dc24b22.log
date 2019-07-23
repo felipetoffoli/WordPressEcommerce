@@ -1,0 +1,8 @@
+2019-07-17T14:22:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\centrooesteshop\wp-content\themes\sshop\inc\config\plugins.php, na linha 21
+
+2019-07-17T15:42:34+00:00 CRITICAL syntax error, unexpected 'if' (T_IF), expecting ',' or ';', em C:\xampp\htdocs\centrooesteshop\wp-content\themes\sshop\inc\template-tags.php, na linha 121
+
+2019-07-17T15:49:19+00:00 CRITICAL syntax error, unexpected '!=' (T_IS_NOT_EQUAL), em C:\xampp\htdocs\centrooesteshop\wp-content\themes\sshop\inc\template-tags.php, na linha 118
+
+2019-07-17T15:50:54+00:00 CRITICAL syntax error, unexpected '!', em C:\xampp\htdocs\centrooesteshop\wp-content\themes\sshop\inc\template-tags.php, na linha 118
+
