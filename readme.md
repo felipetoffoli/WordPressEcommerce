@@ -1,1 +1,1 @@
-# Wordpress e-comerce
+# Wordpress e-commerce
